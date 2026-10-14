@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://the-keeper.beacon.host/sitemap.xml
+Sitemap: https://the-keeper-site.vercel.app/sitemap.xml
